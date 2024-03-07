@@ -13,5 +13,8 @@ public class Application {
 	{
 		
 	}
-	
+	public void m2()
+	{
+		
+	}
 }//
